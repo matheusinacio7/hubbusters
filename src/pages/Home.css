@@ -1,0 +1,174 @@
+.home {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 24px;
+}
+
+.home__header {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+  padding: 48px 0;
+}
+
+.search-form {
+  display: flex;
+  width: 560px;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+.search-form__input-field {
+  padding: 24px 48px;
+  font-size: 18px;
+  border-radius: 8px;
+}
+
+.search-form__submit-button {
+  width: 40%;
+  padding: 14px 0;
+  border: none;
+  border-radius: 8px;
+  background-color: #a568df;
+  color: #131913;
+  transition: all 400ms;
+  font-weight: 700;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.search-form__submit-button:hover {
+  background-color: #90a9fc;
+  animation: pulse 400ms ease-in-out;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  
+  50% {
+    transform: scale(1.3);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+.home__splash-logo {
+  display: block;
+  object-fit: cover;
+  width: 96px;
+}
+
+.home__splash-logo:hover {
+  animation: walkAround 4s infinite ease-in-out;
+}
+
+@keyframes walkAround {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  5% {
+    transform: rotate(24deg);
+  }
+
+  10% {
+    transform: rotate(0deg);
+  }
+
+  15% {
+    transform: rotate(-24deg);
+  }
+
+  20% {
+    transform: rotate(0deg);
+  }
+
+
+  25% {
+    transform: rotate(24deg);
+  }
+
+  30% {
+    transform: rotate(0deg);
+  }
+
+  35% {
+    transform: rotate(-24deg);
+  }
+
+  40% {
+    transform: rotate(0deg);
+  }
+
+
+  45% {
+    transform: rotate(24deg);
+  }
+
+  50% {
+    transform: rotate(0deg);
+  }
+
+  55% {
+    transform: rotate(-24deg);
+  }
+
+  60% {
+    transform: rotate(0deg);
+  }
+
+  65% {
+    transform: rotate(24deg);
+  }
+
+  70% {
+    transform: rotate(0deg);
+  }
+
+  75% {
+    transform: rotate(-24deg);
+  }
+
+  80% {
+    transform: rotate(0deg);
+  }
+
+  85% {
+    transform: rotate(24deg);
+  }
+
+  90% {
+    transform: rotate(0deg);
+  }
+
+  95% {
+    transform: rotate(-24deg);
+  }
+
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+.home__search-results {
+  margin: 48px 0;
+  padding: 0 24px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.home__search-results ol {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}

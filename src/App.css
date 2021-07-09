@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(to bottom, #082d31, #1c0835);
+  color: #efeaea;
+}
+
+a {
+  color: #9ecc9a;
+  transition: all 400ms;
+}
+
+a:hover {
+  color: #885ac0;
+}
+
+main {
+  flex: 1;
+}

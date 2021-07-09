@@ -1,0 +1,30 @@
+.main-header {
+  display: flex;
+  gap: 18px;
+  padding: 24px 46px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.main-header__logo {
+  object-fit: cover;
+  width: 36px;
+  height: 100%;
+}
+
+.main-header h1 {
+  font-size: 24px;
+}
+
+.main-header__link {
+  display: flex;
+  gap: 18px;
+  align-items: center;
+}
+
+.main-footer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 24px;
+}

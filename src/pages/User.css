@@ -1,0 +1,68 @@
+.user {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 46px;
+}
+
+.user__header {
+  display: flex;
+  max-width: 960px;
+  margin-bottom: 72px;
+  gap: 46px;
+}
+
+.user__header img {
+  width: 280px;
+  border-radius: 35%;
+}
+
+.user__header__infos h1 {
+  font-size: 42px;
+  margin-bottom: 12px;
+}
+
+.user__header__infos h2 {
+  font-size: 24px;
+  margin-bottom: 24px;
+}
+
+.user__header__infos__bio {
+  font-size: 18px;
+  margin-bottom: 24px;
+}
+
+.user__header__infos__follows {
+  display: flex;
+  gap: 6px;
+}
+
+.user__header__infos__follows img {
+  width: 24px;
+}
+
+.user__header__infos__follows span {
+  font-size: 14px;
+  margin: 4px;
+  color: #bebaba;
+}
+
+.user__repos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.user__repos h1 {
+  font-size: 28px;
+  margin-bottom: 36px;
+}
+
+.user__repos ol {
+  list-style-type: none;
+  display: flex;
+  flex-flow: row wrap;
+  max-width: 720px;
+  justify-content: space-between;
+  gap: 24px;
+}

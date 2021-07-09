@@ -1,0 +1,11 @@
+.user-card a {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.user-card a img {
+  width: 74px;
+  border-radius: 50%;
+}
+
