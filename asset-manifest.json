@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hubbusters/static/css/main.cb4d3f71.chunk.css",
+    "main.js": "/hubbusters/static/js/main.06b5648c.chunk.js",
+    "main.js.map": "/hubbusters/static/js/main.06b5648c.chunk.js.map",
+    "runtime-main.js": "/hubbusters/static/js/runtime-main.e930eca8.js",
+    "runtime-main.js.map": "/hubbusters/static/js/runtime-main.e930eca8.js.map",
+    "static/js/2.9bb7054a.chunk.js": "/hubbusters/static/js/2.9bb7054a.chunk.js",
+    "static/js/2.9bb7054a.chunk.js.map": "/hubbusters/static/js/2.9bb7054a.chunk.js.map",
+    "static/js/3.49fb2798.chunk.js": "/hubbusters/static/js/3.49fb2798.chunk.js",
+    "static/js/3.49fb2798.chunk.js.map": "/hubbusters/static/js/3.49fb2798.chunk.js.map",
+    "index.html": "/hubbusters/index.html",
+    "static/css/main.cb4d3f71.chunk.css.map": "/hubbusters/static/css/main.cb4d3f71.chunk.css.map",
+    "static/js/2.9bb7054a.chunk.js.LICENSE.txt": "/hubbusters/static/js/2.9bb7054a.chunk.js.LICENSE.txt",
+    "static/media/logo.3b9b5826.png": "/hubbusters/static/media/logo.3b9b5826.png",
+    "static/media/star.1da9cad4.svg": "/hubbusters/static/media/star.1da9cad4.svg",
+    "static/media/users.b0dd5872.svg": "/hubbusters/static/media/users.b0dd5872.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e930eca8.js",
+    "static/js/2.9bb7054a.chunk.js",
+    "static/css/main.cb4d3f71.chunk.css",
+    "static/js/main.06b5648c.chunk.js"
+  ]
+}
