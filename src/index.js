@@ -12,7 +12,7 @@ import rootReducer from './reducers';
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="hubbusters">
       <Provider store={ createStore(rootReducer) }>
         <App />
       </Provider>
