@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hubbusters/static/css/main.cb4d3f71.chunk.css",
-    "main.js": "/hubbusters/static/js/main.59842e29.chunk.js",
-    "main.js.map": "/hubbusters/static/js/main.59842e29.chunk.js.map",
+    "main.js": "/hubbusters/static/js/main.e1bf79af.chunk.js",
+    "main.js.map": "/hubbusters/static/js/main.e1bf79af.chunk.js.map",
     "runtime-main.js": "/hubbusters/static/js/runtime-main.e930eca8.js",
     "runtime-main.js.map": "/hubbusters/static/js/runtime-main.e930eca8.js.map",
     "static/js/2.9bb7054a.chunk.js": "/hubbusters/static/js/2.9bb7054a.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.e930eca8.js",
     "static/js/2.9bb7054a.chunk.js",
     "static/css/main.cb4d3f71.chunk.css",
-    "static/js/main.59842e29.chunk.js"
+    "static/js/main.e1bf79af.chunk.js"
   ]
 }
